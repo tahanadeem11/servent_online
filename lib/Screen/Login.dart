@@ -129,7 +129,7 @@ class _LoginState extends State<Login> {
               
               InkWell(
                 onTap: (){
-                    Get.toNamed("/HomeScreen");
+                    Get.toNamed("/BottomBar");
                 },
                 child: Container(
                   height: 48,
